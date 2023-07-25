@@ -9,7 +9,7 @@ const AutoplaySlider = withAutoplay(AwesomeSlider);
 const FirstSection = () => {
     return (
         <>
-            <div className='grid sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-10 my-12'>
+            <div className='grid sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-10 my-20'>
 
                 <div style={{width: '600px',}} className='w-50% border-r-8 border-violet-500 lg:ml-52'>
 
