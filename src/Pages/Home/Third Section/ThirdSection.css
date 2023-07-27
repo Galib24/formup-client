@@ -1,0 +1,7 @@
+.image:hover{
+    
+        transition:  ease-in all  10s;
+        transform:  rotate(1080deg);
+        
+    
+}

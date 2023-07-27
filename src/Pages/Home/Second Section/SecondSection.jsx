@@ -3,7 +3,7 @@ import React from 'react';
 const SecondSection = () => {
     return (
         <div className='text-center  flex-col justify-items-center my-28'>
-            <h1 className='text-3xl my-6'>Reated 4.5 out of 1000+ Reviews on Our Site Trusted by</h1>
+            <h1 className='text-2xl my-6'>Reated 4.5 out of 1000+ Reviews on Our Site Trusted by</h1>
             <div style={{ width: '1000px'}} className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 lg:ml-52'>
                 <img style={{borderRadius: '100px 0 100px 0' }} src="https://media.istockphoto.com/id/1473968622/photo/blacksmithing-icon.jpg?s=2048x2048&w=is&k=20&c=WMzQaCLouMK07ouwPYTvz8Diaxvl_bu1jnosk5610m0=" alt="" />
 
@@ -15,7 +15,7 @@ const SecondSection = () => {
 
 
             </div>
-            <h1 className='text-5xl font-bold my-28'>pleasantly unique and deliberate</h1>
+            <h1 className='text-5xl font-bold my-28'>Pleasantly Unique and Deliberate</h1>
         </div>
     );
 };

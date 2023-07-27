@@ -37,7 +37,7 @@ const FirstSection = () => {
                 </div>
                 <div className='w-50% ml-20'>
                     <h1 className='text-5xl font-bold normal-case'>Form Up <br /> Which is great for you! <br />Best of Luck</h1>
-                    <Link className="btn btn-ghost bg-violet-400 text-white mt-5">Get Start!</Link>
+                    <Link className="btn btn-ghost bg-violet-400 text-white mt-5" to={`/bioform`}>Get Start!</Link>
                 </div>
             </div>
         </>
